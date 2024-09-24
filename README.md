@@ -4,6 +4,8 @@
 
 # Data Model
 
+![wget](https://github.com/pratikphirke07/Supplierquality-performance/blob/main/Data%20Model.png)
+
 # Video
 
 https://github.com/user-attachments/assets/47bb738c-7175-429b-9fa1-70f4f9f09f0a
